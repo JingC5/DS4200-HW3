@@ -1,0 +1,14 @@
+The general page styling in the body applies a sans-serif font (Arial) for a clean look, sets a light gray background color for a neutral tone, and uses dark gray text for readability. Also removes default margin and padding while ensuring a comfortable line height of 1.6.
+
+The header section has a light blue background with white text for contrast. Included 20px of padding for spacing and centers the text to create a balanced layout.
+
+The navigation menu removes default list styles and aligns the items in the center. The menu items are displayed inline to create a horizontal navigation bar, with 15px of spacing between them. The links within the navigation are white, bold, and have no underlines for a clean, readable design.
+
+The content section is limited to a maximum width of 800px to keep the text readable and centered. It has 20px of padding for internal spacing, a white background for contrast, and a soft pinkish-purple glow effect around it using a box shadow. Additionally, the section has slightly rounded corners with a border-radius of 5px.
+
+Images within the section are made fully responsive with a maximum width of 100 percent while maintaining their aspect ratio. They are also centered within the section and have a bottom margin of 20px for spacing.
+
+The footer has a matching light blue background to maintain consistency with the header. It uses white text for contrast, centers the content, adds padding for spacing, and includes a top margin of 20px to separate it from the rest of the page.
+
+Hyperlink to my personal website:
+https://jingc5.github.io/DS4200-HW3/
